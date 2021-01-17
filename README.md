@@ -1,10 +1,10 @@
 # Redes Neuronales Convoluciones y Machine Learning
 
-# Estimacion de Pose
+# Clasificador de Sonidos
 
-Este proyecto implmenta una web mediante Tensorflow JS que permite dibujar en tiempo real una estimación de la pose que la persona esta haciendo frente a la camara.
+Este proyecto implementa mediante XXXXX utilizando el Dataset llamado UrbanSound8K el cual contiene 8732 extractos de sonidos urbanos etiquetados en 10 clases: air_conditioner, car_horn, children_playing, dog_bark, drill, enginge_idling, gun_shot, jackhammer, siren y street_music. La aplicación permite clasificar cual sonido es de un humano y cuales son de algún otro objeto de la sonora urbana perteneciente a las clases antes mencionadas.
 
-![pose](<./images/pose.PNG>)
+![sonido](<./images/sonido.PNG>)
 
 # Render de un rostro
 
