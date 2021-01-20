@@ -8,18 +8,18 @@ Este proyecto fue desarrollado con Python implementando Librosa; una poderosa li
 
 **Clases Clasificadas**
 
-![clases](<./imagenes/clases.png>)
+![clases](<./imagenes/clases.jpeg>)
 
 **Resultado Obtenido**
 
 Ejemplo de sonido humano detectado
-![humano](<./imagenes/humano.png>)
+![humano](<./imagenes/humano.jpeg>)
 
 Precisión del modelo
-![precision](<./imagenes/precision.png>)
+![precision](<./imagenes/precision.jpeg>)
 
 Predicciones obtenidas
-![resultado](<./imagenes/resultado.png>)
+![resultado](<./imagenes/resultado.jpeg>)
 
 # Render de un rostro
 
