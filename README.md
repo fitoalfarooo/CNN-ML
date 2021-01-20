@@ -2,7 +2,7 @@
 
 # Clasificador de Sonidos
 
-Notebook de Kaggle: https://www.kaggle.com/fabinalfaro/clasificaci-n-de-sonidos
+Notebook de Kaggle: 
 
 Este proyecto fue desarrollado con Python implementando Librosa; una poderosa librería de análisis de audio. Además se utilizó Kaggle, ya que facilita el uso del Dataset llamado UrbanSound8K, el cual contiene 8732 extractos de sonidos urbanos etiquetados en 10 clases, con lo cual se puede clasificar si un sonido proviene de un humano (children_playing) o de algún otro objeto de la sonora urbana.
 
