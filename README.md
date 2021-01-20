@@ -12,13 +12,13 @@ Este proyecto fue desarrollado con Python implementando Librosa; una poderosa li
 
 **Resultado Obtenido**
 
-Ejemplo de sonido humano detectado
+Ejemplo de sonido humano detectado <br> 
 ![humano](<./imagenes/humano.jpeg>)
 
-Precisión del modelo
+Precisión del modelo <br>
 ![precision](<./imagenes/precision.jpeg>)
 
-Predicciones obtenidas
+Predicciones obtenidas <br>
 ![resultado](<./imagenes/resultado.jpeg>)
 
 # Render de un rostro
