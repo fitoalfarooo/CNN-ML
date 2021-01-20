@@ -19,7 +19,7 @@ Precisión del modelo
 ![precision](<./imagenes/precision.jpeg>)
 
 Predicciones obtenidas
-![resultado](<./imagenes/resultado.jpeg>)
+![resultado](<./imagenes/resultado.png>)
 
 # Render de un rostro
 
